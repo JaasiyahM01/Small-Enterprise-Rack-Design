@@ -28,7 +28,17 @@ Structured Cabling Workflow
 Fiber Infrastructure
   In order to simulate a realistic enterprise and data center environment, fiber optic uplinks were deployed between core network infrastructure devices. Cisco GLC-LH-SMD Small Form-Factor Pluggable (SFP) transceiver modules installed in the multilayer switch and router to provide fiber connectivity. Unlike endpoint devices such as workstations, printers, and laptops, which commonly utilize copper Ethernet cabling, infrastructure devices often communicate through dedicated backbone links. These backbone connections support traffic flow from multiple users and network segments, making fiber the most ideal medium, having high bandwidth capacity, reliability, and support for longer distances.
 
+## Rack Close Up
+![Rack Close-Up](screenshots/rack-closeup-01.png)
+This close-up view highlights the physical cabling and port-level connections within the rack, showing structured cable management between switches, patching, and device interfaces.
 
+## Full Rack View
+![Full Rack View](screenshots/rack-fullview-01.png)
+This full rack view provides an overview of the overall network infrastructure, illustrating how switching, routing, and interconnects are organized within a structured rack layout.
+
+## Office Endpoint View
+![Office View](screenshots/office-view-01.png)
+This office endpoint view represents end-user connectivity within the environment, showing how workstations and user devices connect into the network through structured access layer switching.
 
 
   
