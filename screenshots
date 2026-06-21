@@ -1,11 +1,11 @@
 ## Rack Close Up
-![Rack Close-Up](screenshots/rack-closeup-01.png)
+![Rack Close-Up](rack-closeup-01.png)
 This close-up view highlights the physical cabling and port-level connections within the rack, showing structured cable management between switches, patching, and device interfaces.
 
 ## Full Rack View
-![Full Rack View](screenshots/rack-fullview-01.png)
+![Full Rack View](rack-fullview-01.png)
 This full rack view provides an overview of the overall network infrastructure, illustrating how switching, routing, and interconnects are organized within a structured rack layout.
 
 ## Office Endpoint View
-![Office View](screenshots/office-view-01.png)
+![Office View](office-view-01.png)
 This office endpoint view represents end-user connectivity within the environment, showing how workstations and user devices connect into the network through structured access layer switching.
