@@ -26,6 +26,7 @@ Structured Cabling Workflow
 - End Device -> Wall Jack -> Patch Panel -> Access Switch -> Core Switch -> Router
   
 Fiber Infrastructure
+  
   In order to simulate a realistic enterprise and data center environment, fiber optic uplinks were deployed between core network infrastructure devices. Cisco GLC-LH-SMD Small Form-Factor Pluggable (SFP) transceiver modules installed in the multilayer switch and router to provide fiber connectivity. Unlike endpoint devices such as workstations, printers, and laptops, which commonly utilize copper Ethernet cabling, infrastructure devices often communicate through dedicated backbone links. These backbone connections support traffic flow from multiple users and network segments, making fiber the most ideal medium, having high bandwidth capacity, reliability, and support for longer distances.
 
 ## Rack Close Up
